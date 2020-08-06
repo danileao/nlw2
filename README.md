@@ -1,3 +1,26 @@
+<center>Desenvolvido 💜 por Daniele Leão Evangelista
+
+<p>
+<a href="https://www.youtube.com/danieleleaoevangelista">
+<img src="public/yout.png">
+</a> &nbsp; &nbsp;
+
+<a href="https://www.instagram.com/dani_leao/">
+<img src="public/_instagram.png">
+</a> &nbsp; &nbsp;
+
+<a href="https://twitter.com/danieleleao">
+<img src="public/_twitter.png">
+</a> &nbsp; &nbsp;
+
+<a href="https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/">
+<img src="public/_linkedin.png"> &nbsp;
+</a>
+
+</p>
+</center>
+<hr/>
+
 <h1>
     <img src="public/apresentacao.png">
 </h1>
@@ -37,24 +60,3 @@ Projeto desenvolvido durante a Next Level Week 2, da @Rocketseat.
 ```
 
 ---
-
-Desenvolvido 💜 por Daniele Leão Evangelista
-
-<p>
-<a href="https://www.youtube.com/danieleleaoevangelista">
-<img src="public/yout.png">
-</a> &nbsp; &nbsp;
-
-<a href="https://www.instagram.com/dani_leao/">
-<img src="public/_instagram.png">
-</a> &nbsp; &nbsp;
-
-<a href="https://twitter.com/danieleleao">
-<img src="public/_twitter.png">
-</a> &nbsp; &nbsp;
-
-<a href="https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/">
-<img src="public/_linkedin.png"> &nbsp;
-</a>
-
-</p>
