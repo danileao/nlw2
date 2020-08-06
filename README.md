@@ -42,7 +42,7 @@ Desenvolvido 💜 por Daniele Leão Evangelista
 
 <p>
 <a href="https://www.youtube.com/danieleleaoevangelista">
-<img src="public/_youtube.png">
+<img src="public/yout.png">
 </a> &nbsp; &nbsp;
 
 <a href="https://www.instagram.com/dani_leao/">
