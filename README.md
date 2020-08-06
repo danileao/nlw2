@@ -1,5 +1,4 @@
-<center>Desenvolvido 💜 por Daniele Leão Evangelista
-
+<center>Desenvolvido 💜 por Daniele Leão Evangelista</center>
 <p>
 <a href="https://www.youtube.com/danieleleaoevangelista">
 <img src="public/yout.png">
@@ -18,7 +17,7 @@
 </a>
 
 </p>
-</center>
+
 <hr/>
 
 <h1>
