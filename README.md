@@ -1,17 +1,17 @@
 <p align="center">  
-<a href="https://www.youtube.com/danieleleaoevangelista">
+<a target="_blank" href="https://www.youtube.com/danieleleaoevangelista">
 <img src="public/yout.png">
 </a> &nbsp; &nbsp;
 
-<a href="https://www.instagram.com/dani_leao/">
+<a target="_blank" href="https://www.instagram.com/dani_leao/">
 <img src="public/_instagram.png">
 </a> &nbsp; &nbsp;
 
-<a href="https://twitter.com/danieleleao">
+<a target="_blank" href="https://twitter.com/danieleleao">
 <img src="public/_twitter.png">
 </a> &nbsp; &nbsp;
 
-<a href="https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/">
+<a target="_blank" href="https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/">
 <img src="public/_linkedin.png"> &nbsp;
 </a>
 </p>
@@ -29,7 +29,7 @@
 
 ## 🔖&nbsp; Sobre
 
-Projeto desenvolvido durante a Next Level Week 2, da <a href="https://rocketseat.com.brgit">Rocketseat
+Projeto desenvolvido durante a Next Level Week 2, da <a target="_blank" href="https://rocketseat.com.br">Rocketseat
 
 ---
 
