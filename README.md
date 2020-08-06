@@ -9,7 +9,7 @@
 
 ## 🔖&nbsp; Sobre
 
-Projeto desenvolvido durante a Next Level Week 2, da Rocketseat.
+Projeto desenvolvido durante a Next Level Week 2, da @Rocketseat.
 
 ---
 
@@ -41,7 +41,7 @@ Projeto desenvolvido durante a Next Level Week 2, da Rocketseat.
 Desenvolvido 💜 por Daniele Leão Evangelista
 
 <p>
-<a width="80px" href="https://www.youtube.com/danieleleaoevangelista">
+<a href="https://www.youtube.com/danieleleaoevangelista">
 <img src="public/youtube.png">
 </a>
 
