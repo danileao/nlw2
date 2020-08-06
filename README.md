@@ -1,5 +1,5 @@
  &nbsp; &nbsp;Desenvolvido 💜 por Daniele Leão Evangelista
- &nbsp; &nbsp; &nbsp; &nbsp;<center><p>
+ &nbsp;<center><p>
 <a href="https://www.youtube.com/danieleleaoevangelista">
 <img src="public/yout.png">
 </a> &nbsp; &nbsp;
