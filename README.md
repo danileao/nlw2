@@ -29,7 +29,7 @@
 
 ## 🔖&nbsp; Sobre
 
-Projeto desenvolvido durante a Next Level Week 2, da @Rocketseat.
+Projeto desenvolvido durante a Next Level Week 2, da <a href="https://rocketseat.com.brgit">Rocketseat
 
 ---
 
