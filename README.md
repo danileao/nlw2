@@ -1,3 +1,4 @@
+<p align="center">  
 <a href="https://www.youtube.com/danieleleaoevangelista">
 <img src="public/yout.png">
 </a> &nbsp; &nbsp;
@@ -13,6 +14,7 @@
 <a href="https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/">
 <img src="public/_linkedin.png"> &nbsp;
 </a>
+</p>
 
 <hr/>
 
