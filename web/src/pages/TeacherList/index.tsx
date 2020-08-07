@@ -1,5 +1,6 @@
 import React, { useState, FormEvent } from "react";
 import PageHeader from "../../components/PageHeader";
+import AsyncStorage from "@react-native-community/async-storage";
 
 import "./styles.css";
 import TeacherItem, { Teacher } from "../../components/TeacherItem";
@@ -13,6 +14,14 @@ function TeacherList() {
   const [time, setTime] = useState("");
 
   const [teachers, setTeachers] = useState([]);
+
+  useEffect(() => {
+    AsyncStorage.getItem("favorites").then((response) => {
+      if (response) {
+        setFavorites(JSON.parse(response));
+      }
+    });
+  }, []);
 
   async function searchTeachers(e: FormEvent) {
     e.preventDefault();
